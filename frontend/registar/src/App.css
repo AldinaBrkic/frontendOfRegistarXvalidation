@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 105vh;
+  background-image: url("./assets/planet.jpg");
+  background-size: cover;
+  background-position: center;
+}
+form{
+  background-color: transparent;
+  border: 1px solid aliceblue;
+  border-radius: 10px;
+  padding: 0px 148px;
+}
